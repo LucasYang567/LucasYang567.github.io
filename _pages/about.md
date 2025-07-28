@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Automotive Engineer at Dongfeng Motor Corporation R&D Institute. I received my M.S. degree in Vehicle Engineering from Tongji University in 2025 and my B.S. degree from Harbin Institute of Technology, Weihai, in 2022.
+I am currently an Automotive Engineer at Dongfeng Motor Corporation R&D Institute. I received my M.S. degree in Vehicle Engineering from Tongji University in 2025 and my B.S. degree from Harbin Institute of Technology in 2022.
 
 My research interests include 3D Occupancy Prediction, Multi-modal fusion, 4D Radar Perception, Data Closed-loop, and 3D Object Detection. My recent work focuses on end-to-end autonomous driving. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
