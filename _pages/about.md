@@ -27,6 +27,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
+# 💼 Work Experience
+- *2022.09 - present*, Automotive Engineer, <a href="https://www.dfmc.com.cn/">Dongfeng Motor Corporation R&D Institute</a>, Wuhan.
+  
 # 📖 Educations
 - *2022.09 - 2025.06*, M.S. in the School of Automotive Studies, Tongji University, Shanghai. 
 - *2018.09 - 2022.06*, B.S. in the School of Automotive Studies, Harbin Institute of Technology, Weihai.
@@ -48,10 +51,10 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 📝 Publications 
-- Lianqing Zheng\*, **<u>Long Yang\*</u>**, Qunshu Lin\*, Wenjin Ai, Minghao Liu, Shouyi Lu, Jianan Liu et al. "OmniHD-Scenes: A Next-Generation Multimodal
+- Lianqing Zheng\*, **<u>Long Yang*</u>**, Qunshu Lin\*, Wenjin Ai, Minghao Liu, Shouyi Lu, Jianan Liu et al. "OmniHD-Scenes: A Next-Generation Multimodal
 Dataset for Autonomous Driving," arXiv preprint arXiv:2412.10734 (2024). (submitted to *IEEE T-PAMI*)  [[Paper]](https://arxiv.org/abs/2412.10734) [[Project]](https://www.2077ai.com/OmniHD-Scenes/) [![](https://img.shields.io/github/stars/TJRadarLab/OmniHD-Scenes?style=social&label=Code+Stars)](https://github.com/TJRadarLab/OmniHD-Scenes) <a href='https://scholar.google.cz/citations?user=gZfyMFwAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/zhenglianqing/zhenglianqing.github.io/google-scholar-stats/gs_data.json&query=$.publications.gZfyMFwAAAAJ:_FxGoFyzp5QC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
-- **<u>Long Yang\*</u>**, Lianqing Zheng\*, Wenjin Ai, Minghao Liu, Sen Li et al. "MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies," arXiv preprint arXiv:2501.15384 (2025). (submitted to *IEEE RA-L*)[[Paper]](https://arxiv.org/abs/2501.15384)[![](https://img.shields.io/github/stars/LucasYang567/MetaOcc?style=social&label=Code+Stars)](https://github.com/LucasYang567/MetaOcc) <a href='https://scholar.google.cz/citations?user=gZfyMFwAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/zhenglianqing/zhenglianqing.github.io/google-scholar-stats/gs_data.json&query=$.publications.gZfyMFwAAAAJ:roLk4NBRz8UC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+- **<u>Long Yang*</u>**, Lianqing Zheng\*, Wenjin Ai, Minghao Liu, Sen Li et al. "MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies," arXiv preprint arXiv:2501.15384 (2025). (submitted to *IEEE RA-L*)[[Paper]](https://arxiv.org/abs/2501.15384)[![](https://img.shields.io/github/stars/LucasYang567/MetaOcc?style=social&label=Code+Stars)](https://github.com/LucasYang567/MetaOcc) <a href='https://scholar.google.cz/citations?user=gZfyMFwAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/zhenglianqing/zhenglianqing.github.io/google-scholar-stats/gs_data.json&query=$.publications.gZfyMFwAAAAJ:roLk4NBRz8UC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
 - Lianqing Zheng\*, Jianan Liu\*, Runwei Guan, **<u>Long Yang</u>** et al. "Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception," arXiv preprint arXiv:2501.15394 (2025). (submitted to *IEEE T-CSVT*) [[Paper]](https://arxiv.org/abs/2501.15394)[![](https://img.shields.io/github/stars/TJRadarLab/Doracamom?style=social&label=Code+Stars)](https://github.com/TJRadarLab/Doracamom) <a href='https://scholar.google.cz/citations?user=gZfyMFwAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/zhenglianqing/zhenglianqing.github.io/google-scholar-stats/gs_data.json&query=$.publications.gZfyMFwAAAAJ:LkGwnXOMwfcC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
