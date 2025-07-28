@@ -48,19 +48,9 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **<u>Lianqing Zheng*</u>**, Jianan Liu\*, Runwei Guan et al. "Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception," arXiv preprint arXiv:2501.15394 (2025). (submitted to *IEEE T-CSVT*) [[Paper]](https://arxiv.org/abs/2501.15394)[![](https://img.shields.io/github/stars/TJRadarLab/Doracamom?style=social&label=Code+Stars)](https://github.com/TJRadarLab/Doracamom) <a href='https://scholar.google.cz/citations?user=gZfyMFwAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/zhenglianqing/zhenglianqing.github.io/google-scholar-stats/gs_data.json&query=$.publications.gZfyMFwAAAAJ:LkGwnXOMwfcC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+- Long Yang\*, **<u>Lianqing Zheng*</u>**, Wenjin Ai, Minghao Liu, Sen Li et al. "MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies," arXiv preprint arXiv:2501.15384 (2025). (submitted to *IEEE RA-L*)[[Paper]](https://arxiv.org/abs/2501.15384)[![](https://img.shields.io/github/stars/LucasYang567/MetaOcc?style=social&label=Code+Stars)](https://github.com/LucasYang567/MetaOcc) <a href='https://scholar.google.cz/citations?user=gZfyMFwAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/zhenglianqing/zhenglianqing.github.io/google-scholar-stats/gs_data.json&query=$.publications.gZfyMFwAAAAJ:roLk4NBRz8UC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+- **<u>Lianqing Zheng*</u>**, Long Yang\*, Qunshu Lin\*, Wenjin Ai, Minghao Liu, Shouyi Lu, Jianan Liu et al. "OmniHD-Scenes: A Next-Generation Multimodal
+Dataset for Autonomous Driving," arXiv preprint arXiv:2412.10734 (2024). (submitted to *IEEE T-PAMI*)  [[Paper]](https://arxiv.org/abs/2412.10734) [[Project]](https://www.2077ai.com/OmniHD-Scenes/) [![](https://img.shields.io/github/stars/TJRadarLab/OmniHD-Scenes?style=social&label=Code+Stars)](https://github.com/TJRadarLab/OmniHD-Scenes) <a href='https://scholar.google.cz/citations?user=gZfyMFwAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/zhenglianqing/zhenglianqing.github.io/google-scholar-stats/gs_data.json&query=$.publications.gZfyMFwAAAAJ:_FxGoFyzp5QC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
 
