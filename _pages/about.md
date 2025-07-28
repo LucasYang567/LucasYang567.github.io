@@ -32,7 +32,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2018.09 - 2022.06*, B.S. in the School of Automotive Studies, Harbin Institute of Technology, Weihai.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.04 - 2025.02*,  Multi-modal Algorithm Intern, <a href='https://www.nio.cn/'>NIO</a>, Shanghai.
+- *2023.07 - 2024.04*,  3D Perception Algorithm Intern, <a href='https://www.hongjingdrive.com/'>HYPERVIEW</a>, Shanghai.
 
 <!--
 # 💬 Invited Talks
