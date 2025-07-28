@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Long Yang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Automotive Engineer at Dongfeng Motor Corporation R&D Institute."
 repository               : "LucasYang567/LucasYang567.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=IvYbyX4AAAAJ"
   email            : "loongyang567@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
