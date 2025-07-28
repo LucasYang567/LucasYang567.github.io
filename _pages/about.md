@@ -28,7 +28,7 @@ My research interests include 3D Occupancy Prediction, Multi-modal fusion, 4D Ra
 -->
 
 # 💼 Work Experience
-- *2022.09 - present*, Automotive Engineer, <a href="https://www.dfmc.com.cn/">Dongfeng Motor Corporation R&D Institute</a>, Wuhan.
+- *2025.07 - present*, Automotive Engineer, <a href="https://www.dfmc.com.cn/">Dongfeng Motor Corporation R&D Institute</a>, Wuhan.
   
 # 📖 Educations
 - *2022.09 - 2025.06*, M.S. in the School of Automotive Studies, Tongji University, Shanghai. 
