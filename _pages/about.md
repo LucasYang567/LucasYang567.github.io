@@ -28,7 +28,7 @@ My research interests include 3D Occupancy Prediction, Multi-modal fusion, 4D Ra
 -->
 
 # 💼 Work Experience
-- *2025.07 - present*, Automotive Engineer, <a href="https://www.dfmc.com.cn/">Dongfeng Motor Corporation R&D Institute</a>, Wuhan.
+- *2025.07 - present*, Autonomous Driving Engineer, *Top Talent Program: Wind Seekers*, <a href="https://www.dfmc.com.cn/">Dongfeng Motor Corporation R&D Institute</a>, Wuhan.
   
 # 📖 Educations
 - *2022.09 - 2025.06*, M.S. in the School of Automotive Studies, Tongji University, Shanghai. 
@@ -58,7 +58,16 @@ Dataset for Autonomous Driving," arXiv preprint arXiv:2412.10734 (2024). (submit
 
 - Lianqing Zheng\*, Jianan Liu\*, Runwei Guan, **<u>Long Yang</u>** et al. "Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception," arXiv preprint arXiv:2501.15394 (2025). (submitted to *IEEE T-CSVT*) [[Paper]](https://arxiv.org/abs/2501.15394)[![](https://img.shields.io/github/stars/TJRadarLab/Doracamom?style=social&label=Code+Stars)](https://github.com/TJRadarLab/Doracamom) <a href='https://scholar.google.cz/citations?user=gZfyMFwAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/zhenglianqing/zhenglianqing.github.io/google-scholar-stats/gs_data.json&query=$.publications.gZfyMFwAAAAJ:LkGwnXOMwfcC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
-- Lianqing Zheng, Sen Li, Bin Tan, **<u>Long Yang</u>** et al., "RCFusion: Fusing 4-D Radar and Camera With Bird’s-Eye View Features for 3-D Object Detection," *IEEE Transactions on Instrumentation and Measurement*, vol. 72, pp. 1-14, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10138035) <a href='https://scholar.google.cz/citations?user=gZfyMFwAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/zhenglianqing/zhenglianqing.github.io/google-scholar-stats/gs_data.json&query=$.publications.gZfyMFwAAAAJ:IjCSPb-OGe4C.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+- Lianqing Zheng, Sen Li, Bin Tan, **<u>Long Yang</u>** et al. "RCFusion: Fusing 4-D Radar and Camera With Bird’s-Eye View Features for 3-D Object Detection," *IEEE Transactions on Instrumentation and Measurement*, vol. 72, pp. 1-14, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10138035) <a href='https://scholar.google.cz/citations?user=gZfyMFwAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/zhenglianqing/zhenglianqing.github.io/google-scholar-stats/gs_data.json&query=$.publications.gZfyMFwAAAAJ:IjCSPb-OGe4C.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+
+- **<u>Long Yang</u>**, Lianqing Zheng, Jingyue Mo et al. "RadarPillarDet: Multi-Pillar Feature Fusion with 4D Millimeter-Wave Radar for 3D Object Detection," *SAE Technical Paper*, No. 2024-01-7020, 2024. [[Paper]](https://www.sae.org/publications/technical-papers/content/2024-01-7020/) <a href='https://scholar.google.cz/citations?user=IvYbyX4AAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/LucasYang567/LucasYang567.github.io/google-scholar-stats/gs_data.json&query=$.publications.IvYbyX4AAAAJ:e5wmG9Sq2KIC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+
+<!--
+Yang, Long, et al. RadarPillarDet: Multi-Pillar Feature Fusion with 4D Millimeter-Wave Radar for 3D Object Detection. No. 2024-01-7020. SAE Technical Paper, 2024.
+"Parallel Battery Pack Charging Strategy Under Various Ambient Temperatures Based on Minimum Lithium Plating Overpotential Control," <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11705155694003812674'><img src="https://img.shields.io/badge/citations-23-blue?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>
+-->
+
+
 
 
 
