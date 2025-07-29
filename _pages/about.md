@@ -32,7 +32,7 @@ My research interests include 3D Occupancy Prediction, Multi-modal fusion, 4D Ra
   
 # 📖 Educations
 - *2022.09 - 2025.06*, M.S. in the School of Automotive Studies, Tongji University, Shanghai. 
-- *2018.09 - 2022.06*, B.S. in the School of Automotive Studies, Harbin Institute of Technology, Weihai.
+- *2018.09 - 2022.06*, B.S. in the School of Automotive Engineering, Harbin Institute of Technology, Weihai.
 
 # 💻 Internships
 - *2024.04 - 2025.02*,  Multi-modal Algorithm Intern, <a href='https://www.nio.cn/'>NIO</a>, Shanghai.
